@@ -17,6 +17,14 @@
 14. git checkout 分支名  切换主分支
 15. git merge 分支名  合并到主分支
 16. git branch 可以查看当前有多少分支
+17. git branch -d 分支名  删除分支
+合并时如果有冲突，需要手动处理，并重新提交
+
+上传到服务器
+1. git push 地址 master
+
+
+
 
 
 
