@@ -21,8 +21,9 @@
 合并时如果有冲突，需要手动处理，并重新提交
 
 上传到服务器
-1. git push 地址 master
-
+1. git push https地址 master 上传到服务器
+2. git pull https地址 master  下载到本地 (不包含.git)
+3. git clone https地址 master  会得到仓库数据，包含仓库，只能第一次使用（会下载.git）
 
 
 
