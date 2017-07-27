@@ -1,0 +1,14 @@
+1.git add 文件名
+2.git commit -m "注释"
+3. git commit 错误退出 -- Esc+:q(!)
+
+
+
+
+
+
+
+
+
+
+
