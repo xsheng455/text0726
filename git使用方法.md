@@ -13,7 +13,11 @@
 10. git reset --hard Head~0 最后面的数字表示回退的次数，0表示最近的一次
 11. git reset --hard 版本号   指向要回退的版本
 12. git reflog 显示版本切换的记录
-13. 
+13. git branch 分支名 创建分支（默认主分支 master）
+14. git checkout 分支名  切换主分支
+15. git merge 分支名  合并到主分支
+16. git branch 可以查看当前有多少分支
+
 
 
 
