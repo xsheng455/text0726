@@ -2,8 +2,8 @@
 2.git commit -m "注释"
 3. git commit 错误退出 -- Esc+:q(!)
 4.git status 查看文件是否改变,保存到版本库
-5.git add ./  将当前文件夹下所有文件全部提交
-
+5.git add ./  将当前文件夹下所有修改过的文件全部提交
+6.git commit --all -m "注释"  把所有修改过的文件放到版本库
 
 
 
