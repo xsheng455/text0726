@@ -1,4 +1,6 @@
  ##  git init 初始化文件夹，默认被隐藏
+ git config --global username 用户名
+ git config --global useremail 邮箱
 1. git add 文件名
 2. git commit -m "注释"
 3. git commit  错误退出 -- Esc+:q(!)
