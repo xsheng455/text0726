@@ -12,3 +12,7 @@
 
 ## 提交数据时先pull再push
     先pull时，如果服务器版本和本地不同，我们可以吧冲突先解决，然后把最新的版本push到服务器
+##  简写
+    git remote add 变量 地址 
+    git push 变量 -u master
+    当我们在push时，加上了-u参数，那么下一次push时只需要写git push 就能上传代码了；
